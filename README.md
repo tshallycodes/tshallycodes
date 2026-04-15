@@ -16,13 +16,11 @@
 Final-year <strong>AI student at the University of Bradford</strong>, building real things at the intersection of machine learning, automation, and finance. I don't just study AI — I ship it.
 </p>
 
-- 🏗️ Building **SyncFlow AI** — an AI automation agency (LinkedIn auto-poster, AI email responder, appointment reminders via Make.com)
+- 🏗️ Building **Neulay** — an AI automation agency (LinkedIn auto-poster, AI email responder, appointment reminders via Make.com)
 - 📱 Building **Treapy** — a portfolio tracker with AI-powered insights (agent: Tripper)
-- 🧠 Researching **Parkinson's Disease detection** — V1 binary classifier + V2 UPDRS severity predictor (Streamlit deployed)
+- 🧠 Built **Parkinson's Disease detection** — V1 binary classifier + V2 UPDRS severity predictor (Streamlit deployed)
 - 🌍 Built a **FEMA Recovery Cost Predictor** — Gradient Boosting + SHAP + FastAPI + Docker for TerraNova
-- 📈 **3 years prop firm trading** — I think in probabilities, not predictions
-- 🎓 Academic focus: **AI ethics, EU AI Act, GDPR, algorithmic fairness**
-- 📍 Based in the **UK**
+- 📈 **Trader** — I think in probabilities, not predictions
 
 <br clear="right"/>
 
@@ -64,22 +62,22 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
   <tr>
     <td width="50%" align="center">
       <h3>🧠 Parkinson's Disease AI</h3>
-      <p>V1: Binary classifier detecting PD from voice/clinical features. V2: UPDRS severity predictor with regression modelling. Deployed via Streamlit.</p>
-      <p><strong>Scikit-learn · XGBoost · Streamlit · Python</strong></p>
+      <p> UPDRS severity predictor with regression modelling. Deployed via Streamlit.</p>
+      <p><strong>Scikit-learn · Random Forest · Streamlit · Python</strong></p>
       <img src="https://img.shields.io/badge/University_Dissertation-COS5031-EF4444?style=flat-square"/>
     </td>
     <td width="50%" align="center">
       <h3>🌪️ FEMA Recovery Cost Predictor</h3>
       <p>End-to-end ML pipeline for TerraNova. Gradient Boosting with SHAP explainability, FastAPI backend, Streamlit dashboard, Docker Compose deployment. Azure ML next.</p>
       <p><strong>GBM · SHAP · FastAPI · Docker · Streamlit</strong></p>
-      <a href="https://github.com/tshallycodes">
+      <a href="https://github.com/tshallycodes/fema-predictions">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🤖 SyncFlow AI</h3>
+      <h3>🤖 Neulay</h3>
       <p>AI automation agency targeting coaches, consultants & content creators. Live builds: LinkedIn auto-poster, AI email responder, appointment reminder system.</p>
       <p><strong>Make.com · LLMs · Webhooks · n8n</strong></p>
       <img src="https://img.shields.io/badge/Actively_Building-00D4FF?style=flat-square"/>
@@ -88,7 +86,7 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
       <h3>🔍 DuckDuckGo/Ollama Search Agent</h3>
       <p>Local LLM-powered web search agent. Runs entirely offline using Ollama — no API keys required. Demonstrates autonomous tool-use and retrieval pipelines.</p>
       <p><strong>Ollama · LangChain · DuckDuckGo API · Python</strong></p>
-      <a href="https://github.com/tshallycodes">
+      <a href="https://github.com/tshallycodes/WebSearchAIAgent
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -105,9 +103,9 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
-| 🧠 Parkinson's Disease AI | V1 binary classifier + V2 UPDRS severity predictor from voice/clinical data | XGBoost · Streamlit · Scikit-learn | [View](https://github.com/tshallycodes) |
-| 🎗️ Breast Cancer Classifier | Tumour classification — Benign vs Malignant, full analysis with PCA & clustering | Scikit-learn · PCA · KMeans · Streamlit | [View](https://github.com/tshallycodes) |
-| 🩺 Skin Disease Classifier | EfficientNet transfer learning on ISIC dataset — 83.1% AUC | EfficientNetB0 · TensorFlow · Streamlit | [View](https://github.com/tshallycodes) |
+| 🧠 Parkinson's Disease AI | V1 binary classifier + V2 UPDRS severity predictor from voice/clinical data | XGBoost · Streamlit · Scikit-learn | [View](https://github.com/tshallycodes/updrs-predictor) |
+| 🎗️ Breast Cancer Classifier | Tumour classification — Benign vs Malignant, full analysis with PCA & clustering | Scikit-learn · PCA · KMeans · Streamlit | [View](https://github.com/tshallycodes/Breast-Cancer-Tumor-Classification) |
+| 🩺 Skin Disease Classifier | EfficientNet transfer learning on ISIC dataset — 83.1% AUC | EfficientNetB0 · TensorFlow · Streamlit | [View](https://github.com/tshallycodes/skin-disease-classification) |
 
 </details>
 
@@ -117,8 +115,8 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
-| 🌪️ FEMA Recovery Cost Predictor | Disaster recovery ML pipeline with explainability, API & containerised deployment | GBM · SHAP · FastAPI · Docker | [View](https://github.com/tshallycodes) |
-| 🚢 Voyage Ticket Price Predictor | MLOps pipeline for ticket price forecasting with full experiment tracking | MLflow · FastAPI · Scikit-learn | [View](https://github.com/tshallycodes) |
+| 🌪️ FEMA Recovery Cost Predictor | Disaster recovery ML pipeline with explainability, API & containerised deployment | GBM · SHAP · FastAPI · Docker | [View](https://github.com/tshallycodes/fema-predictions) |
+| 🚢 Voyage Ticket Price Predictor | MLOps pipeline for ticket price forecasting with full experiment tracking | MLflow · FastAPI · Scikit-learn | [View](https://github.com/tshallycodes/voyage-ticket-prediction) |
 
 </details>
 
@@ -128,8 +126,8 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
-| 🔍 DuckDuckGo/Ollama Search Agent | Local LLM search agent — autonomous tool use, runs fully offline | Ollama · LangChain · Python | [View](https://github.com/tshallycodes) |
-| 📧 SyncFlow AI Workflows | LinkedIn auto-poster, AI email responder, appointment reminders | Make.com · LLMs · Webhooks | [View](https://github.com/tshallycodes) |
+| 🔍 DuckDuckGo/Ollama Search Agent | Local LLM search agent — autonomous tool use, runs fully offline | Ollama · LangChain · Python | [View](https://github.com/tshallycodes/WebSearchAIAgent) |
+| 📧 SyncFlow AI Workflows | LinkedIn auto-poster, AI email responder, appointment reminders | Make.com · LLMs · Webhooks
 
 </details>
 
@@ -139,8 +137,8 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
 
 | Project | Description | Tech | Repo |
 |---|---|---|---|
-| 🚨 IoT Anomaly Detection | Real-time anomaly detection on IoT data streams | Python · ML · Streaming | [View](https://github.com/tshallycodes) |
-| 🌿 Crop Disease Detection | CNN classifies 15 plant diseases from leaf images | TensorFlow · CNN · Flask | [View](https://github.com/tshallycodes) |
+| 🚨 IoT Anomaly Detection | Real-time anomaly detection on IoT data streams | Python · ML · Streaming | [View](https://github.com/tshallycodes/iot-anomaly-detection) |
+| 🌿 Crop Disease Detection | CNN classifies 15 plant diseases from leaf images | TensorFlow · CNN · Flask | [View](https://github.com/tshallycodes/crop-disease-detection) |
 
 </details>
 
@@ -174,7 +172,7 @@ Final-year <strong>AI student at the University of Bradford</strong>, building r
   <a href="bubutshally@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/cstshally-okeke" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
